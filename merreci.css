@@ -1,0 +1,30 @@
+body{
+  border-color: red cyan gold;
+  padding: 50px 400px;
+  background-color: rgba(255, 120, 20, 0.5);
+  max-width: 2000px;
+  margin: 0 auto;
+  font-size: 1.1em;
+}
+h1{
+  width: 650px;
+  background-color: navy;
+  text-align: center;
+  color: rgba(255, 60, 20, 0.5);
+  font-family: monospace;
+
+}
+image{
+  align-items: center;
+  width: 300px;
+}
+h2{
+  color: blue;
+}
+Picture{
+  font-family: monospace;
+}
+h5{
+  background-color: yellow;
+  width: 550px;
+}
